@@ -1,4 +1,4 @@
-Lead Capture Automation
+# Lead Capture Automation
 
 <img width="960" height="540" alt="Lead Capture Automation" src="https://github.com/user-attachments/assets/05348671-4e92-4ebd-87bc-a32a7d970e02" />
 
