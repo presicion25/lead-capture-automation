@@ -4,13 +4,13 @@
 
 <h2>Here are 3 benefits of a Lead Capture Automation:</h2>
 
- -Increased Conversion Rates 
+ 1. Increased Conversion Rates 
 Automated lead capture systems can boost conversion rates by 10-15% through optimized timing, personalized messaging, and reduced friction 
 
--Scalable Lead Processing 
+2. Scalable Lead Processing 
 Automation handles unlimited lead volume without additional staffing costs. 
 
--Enhanced Lead Quality and Nurturing 
+3. Enhanced Lead Quality and Nurturing 
 Automated systems can implement sophisticated lead scoring algorithms that evaluate prospects based on behavior, demographics, and engagement patterns.
 
 
